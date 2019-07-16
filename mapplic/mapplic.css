@@ -8,7 +8,8 @@
 	position: relative;
 	overflow: hidden;
 	font-size: 0;
-	height: 420px;
+/*	height: 420px;*/
+    height: 100vh;
 }
 
 .mapplic-element input,
