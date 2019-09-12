@@ -28,7 +28,7 @@
 
 			<!-- Site content -->
 			<div id="content">
-				
+				 
 				<section id="map-section" class="inner over">
 					<div class="editor-window">
 						<div class="editor-body">
@@ -70,17 +70,19 @@
 		<script type="text/javascript">
 			$(document).ready(function() {
 				var mapplic = $('#mapplic').mapplic({
-					source: 'spectrum.json',	// Using mall.json file as map data
+					sousrce: 'spectrum.json',	// Using mall.json file as map data
 					sidebar: true, 			// Enable sidebar
 					height: "100vh",
 					search: true,
 					minimap: false,
-					marker: 'hidden', 		// Disable markers
-					fillcolor: false, 		// Disable default fill color
+					marker: 'show', 		// Disable markers
+					fillcolor: '#1F3E47', 		// Disable default fill color
 					fullscreen: true, 		// Enable fullscreen 
-					developer: false,
+					developer: true,
 					thumbholder: true,
-					maxscale: 3
+					maxscale: 3,
+//                    lightbox: true
+                    closezoomout: true
 				});
 			});
         

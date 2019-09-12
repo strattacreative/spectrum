@@ -18,7 +18,7 @@
 .mapplic-element a:active {
 	outline: none;
 	box-shadow: none;
-	text-decoration: none !important;
+/*	text-decoration: none !important;*/
 }
 
 .mapplic-element a:focus {
@@ -910,6 +910,7 @@ a.mapplic-zoomout-button {
 	min-width: 120px;
 	padding: 16px;
 	pointer-events: auto;
+    border-radius: 15px;
 }
 
 .mapplic-tooltip-wrap::after {
@@ -924,7 +925,9 @@ a.mapplic-zoomout-button {
 
 .mapplic-tooltip .mapplic-image {
 	margin: -16px;
-	max-width: none;
+/*	max-width: none;*/
+    border-radius: 15px 15px 0px 0px;
+/*    padding: 20px;*/
 }
 
 .mapplic-tooltip-title {
@@ -933,12 +936,12 @@ a.mapplic-zoomout-button {
 	font-size: 16px;
 	font-weight: bold;
 	line-height: 20px;
-	margin: 0 12px 0 0 !important;
+/*	margin: 0 12px 0 0 !important;*/
 }
 
 .has-image .mapplic-tooltip-title {
-	color: #fff;
-	margin: -20px 12px 20px 0 !important;
+/*	color: #fff;*/
+	margin: 30px 12px -20px 0 !important;
 }
 
 .mapplic-hovertip,
@@ -991,23 +994,24 @@ a.mapplic-zoomout-button {
 }
 
 .mapplic-popup-link {
-	background-color: #888;
-	border-radius: 4px;
-	box-shadow: 0 0 6px rgba(0, 0, 0, 0.1) !important;
-	color: #fff !important;
+	background-color: transparent !important;
+/*	border-radius: 4px;*/
+/*	box-shadow: 0 0 6px rgba(0, 0, 0, 0.1) !important;*/
+/*	color: #fff !important;*/
+    color: rgb(79, 156, 184) !important;
 	font-size: 14px;
 	font-weight: 600;
 	display: inline-block;
 	float: right;
 	margin-top: 4px;
 	padding: 4px 8px;
-	text-decoration: none;
+	text-decoration: underline !important;
 	transition: background-color 0.2s, box-shadow 0.2s;
 }
 
 .mapplic-popup-link:hover {
-	background-color: #666;
-	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2) !important;
+	color: #46899B !important;
+/*	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2) !important;*/
 }
 
 .mapplic-tooltip-close {
@@ -1049,7 +1053,7 @@ a.mapplic-zoomout-button {
 	padding: 20px;
 	width: auto;
 	max-width: 500px;
-	margin: 20px auto;
+	margin: 200px auto;
 }
 
 .mapplic-lightbox:after {
@@ -1310,6 +1314,7 @@ g.mapplic-clickable:hover > * {
 a.mapplic-active > path,
 g.mapplic-active > * {
 	opacity: 1.0 !important;
+    fill: #46899B !important;
 }
 
 /* Transparent */
@@ -1355,6 +1360,8 @@ g.mapplic-active > * {
 .mapplic-image,
 .mapplic-tooltip { max-width: 300px !important; } /* tooltip width */
 .mapplic-tooltip-content { max-height: 160px; } /* tooltip height*/
+.mapplic-tooltip-description {max-width: 75% !important}
+/*.mapplic-tooltip-content {max-width: 50% !important}*/
 
 /* example custom pin */
 .mapplic-pin.my-new-pin { /* replace 'my-new-pin' with the name of your pin */
@@ -1364,4 +1371,20 @@ g.mapplic-active > * {
 	height: 30px;
 	margin-left: -10px; /* negative margins are used for */
 	margin-top: -15px; /* defining the pin's origin */
+}
+
+/*Alex code*/
+.address {
+    font-weight: bold !important;
+}
+.m-top {
+    margin-top: 50px !important;
+}
+.row {
+  display: flex;
+}
+.column {
+  flex: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
 }

@@ -47,7 +47,7 @@
 		};
 
 		self.loc = {
-			more: 'More',
+			more: 'Website',
 			search: 'Search',
 		}
 
@@ -217,7 +217,12 @@
 				// construct
 				this.el = $('<div></div>').addClass('mapplic-lightbox mfp-hide');
 				this.title = $('<h2></h2>').addClass('mapplic-lightbox-title').appendTo(this.el);
-				this.desc = $('<div></div>').addClass('mapplic-lightbox-description').appendTo(this.el);
+//				this.desc = $('<div></div>').addClass('mapplic-lightbox-description').appendTo(this.el);
+                this.desc = $('<div></div>').addClass('mapplic-lightbox-description');
+                this.row = $('<div></div>').addClass('row').appendTo(this.desc);
+this.col1 = $('<div></div>').addClass('column').appendTo(this.desc);
+this.col2 = $('<div></div>').addClass('column').appendTo(this.desc);
+this.desc.appendTo(this.el);
 				this.link = $('<a>' + self.loc.more + '</a>').addClass('mapplic-popup-link').attr('href', '#').hide().appendTo(this.el);
 				if (self.o.linknewtab) this.link.attr('target', '_blank');
 
@@ -231,7 +236,9 @@
 				this.location = location;
 
 				this.title.text(location.title);
-				this.desc.html(location.description);
+//				this.desc.html(location.description);
+                this.desc.col1.html(location.description);
+this.desc.col2.html(location.link);
 
 				if (location.link) {
 					this.link.attr('href', location.link).css('background-color', '').show();

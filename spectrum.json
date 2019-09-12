@@ -1,3 +1,5 @@
+
+
 {
 	"mapwidth": "1000",
 	"mapheight": "500",
@@ -15,68 +17,44 @@
 			"color": "#FF9595"
 		},
         {
-			"id": "fashion",
-			"title": "Fashion",
-			"about": "Cothing & Accessories",
+			"id": "available-units",
+			"title": "Available Units",
+			"about": "Units available for purchase or lease",
 			"color": "#FF9595"
-		},
-		{
-			"id": "health",
-			"title": "Health",
-			"about": "Health & Cosmetics",
-			"color": "#FFB985"
-		},
-		{
-			"id": "food",
-			"title": "Food",
-			"about": "Fast-foods & Restaurants",
-			"icon": "images/food.svg",
-			"color": "#A5C882"
-		},
-		{
-			"id": "dep",
-			"title": "Department Stores",
-			"about": "Wide wariety of goods",
-			"color": "#8DB3DC"
-		},
-		{
-			"id": "others",
-			"title": "Others",
-			"color": "#D3B8F8"
-		},
-		{
-			"id": "nopointer-logos",
-			"title": "Logos",
-			"toggle": "true",
-			"legend": "true",
-			"hide": "true"
 		}
+        
 	],
 	"levels": [
 		
 		{
 			"id": "test",
-			"title": "Ground Floor",
-			"map": "maps/SSQMap-01-01.svg",
-			"minimap": "maps/SSQMap-01-01.svg",
+			"title": "Main",
+			"map": "maps/Directory-map-01-01.svg",
+			"minimap": "maps/Directory-map-01-01.svg",
 			"show": "true",
 			"locations": [
 				{
 					"id": "starbucks",
 					"title": "Starbucks",
-					"about": "This is starbucks lol",
-					"description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tristique vitae eros eget vulputate. Phasellus tempus metus non aliquet porttitor. <br> 000 000 000</p>",
+					"description": "<p class='address'> 5019 Spectrum Way,<br> Mississauga ON L4W 5A1<br><span class='m-top'> 905-602-9722 </span></p>",
                     "link": "https://www.starbucks.ca/",
-					"category": "retail, food",
+					"category": "retail",
+                    "thumbnail": "images/unit-logos/illuminati-symbols-Starbucks-Coffee-Logo.gif",
+					"image": "images/unit-logos/illuminati-symbols-Starbucks-Coffee-Logo.gif",
 					"x": "0.3531",
 					"y": "0.7033",
 					"zoom": "3"
+
+
 				},
 				{
 					"id": "teriyaki-experience",
-					"title": "Teriyaki",
-					"description": "Macy's <i>department</i> store",
-					"category": "retail, food",
+					"title": "Teriyaki Experience",
+					"description": "<p class='address'> 5019 Spectrum Way,<br> Mississauga ON L4W 5A1<br><span class='m-top'> 905-282-0550 </span></p>",
+					"category": "retail",
+                    "thumbnail": "images/unit-logos/TeriyakiLogo_Hires.jpg",
+					"image": "images/unit-logos/TeriyakiLogo_Hires.jpg",
+                    "link":"https://www.teriyakiexperience.com/",
 					"x": "0.3635",
 					"y": "0.7080",
 					"zoom": "2"
@@ -85,9 +63,11 @@
 					"id": "mango",
 					"title": "South East Mango",
 					"about": "Lorem ipsum",
-					"description": "JCPenney store",
-					"category": "retail, food",
-					"link": "https://1.envato.market/R5Nv",
+					"description": "<p class='address'> 5019 Spectrum Way,<br> Mississauga ON L4W 0E4<br><span class='m-top'>905-282-1111</span></p>",
+					"category": "retail",
+
+                    "thumbnail": "images/unit-logos/Southeast_Mango_Viet-Thai_Cuisine_Mississauga.png",
+					"image": "images/unit-logos/Southeast_Mango_Viet-Thai_Cuisine_Mississauga.png",
 					"x": "0.3756",
 					"y": "0.7079",
 					"zoom": "3"
@@ -96,8 +76,11 @@
 					"id": "subway",
 					"title": "Subway",
 					"about": "Lorem ipsum",
-					"description": "At the corner of Happy & Healthy",
-					"category": "retail, food",
+					"description": "<p class='address'> 5019 Spectrum Way,<br> Mississauga ON L4W 05A1<br><span class='m-top'> 905-602-9722 </span></p>",
+					"category": "retail",
+                    "thumbnail": "images/unit-logos/Subway-new-logo_itsnicethat_LIST.jpg",
+					"image": "images/unit-logos/Subway-new-logo_itsnicethat_LIST.jpg",
+                    "link": "https://www.subway.com",
 					"x": "0.3991",
 					"y": "0.6813"
 				},
@@ -105,9 +88,9 @@
 					"id": "chairacters",
 					"title": "Chairacters Hair & Makeup",
 					"about": "Lorem ipsum",
-					"description": "Makeup, fragrance, skincare",
-					"category": "retail, health",
-					"link": "https://1.envato.market/R5Nv",
+					"description": "<p class='address'> 5027 Spectrum Way,<br> Mississauga ON L4W 0E3<br><span class='m-top'> 905-282-1551 </span></p>",
+					"category": "retail",
+					"link": "https://chairacters.ca/",
 					"x": "0.4695",
 					"y": "0.6640"
 				},
@@ -116,7 +99,7 @@
 					"title": "Light Touch Med Spa",
 					"about": "Lorem ipsum",
 					"description": "<p>Lorem ipsum dolor sit amet</p>",
-					"category": "retail, health",
+					"category": "retail",
 					"link": "https://1.envato.market/R5Nv",
 					"x": "0.4725",
 					"y": "0.6277"
@@ -125,8 +108,11 @@
 					"id": "pumpernickels",
 					"title": "Pumpernickel's",
 					"about": "Lorem ipsum",
-					"description": "Lorem ipsum",
-					"category": "retail, food",
+					"description": "<p class='address'> 5027 Spectrum Way,<br> Mississauga ON L4W 5N6<br><span class='m-top'> 416-863-9880 </span></p>",
+                    "thumbnail": "images/unit-logos/uwMiXpFJ.jpg",
+					"image": "images/unit-logos/uwMiXpFJ.jpg",
+					"category": "retail",
+                    "link": "https://www.pumpernickels.ca/",
 					"x": "0.4946",
 					"y": "0.6282"
 				},
@@ -134,8 +120,11 @@
 					"id": "anytime-fitness",
 					"title": "Anytime Fitness",
 					"about": "Lorem ipsum",
-					"description": "Lorem ipsum",
-					"category": "health",
+					"description": "<p class='address'> 5030 Satellite Drive,<br> Etobicoke ON L4W 0E3<br><span class='m-top'> 905-625-5055 </span></p>",
+                    "thumbnail": "images/unit-logos/logo-anytime-fitness-th.jpg",
+					"image": "images/unit-logos/logo-anytime-fitness-th.jpg",
+					"category": "retail",
+                    "link":"https://www.anytimefitness.com/",
 					"x": "0.5616",
 					"y": "0.6676"
 				},
@@ -143,8 +132,11 @@
 					"id": "dentist",
 					"title": "Spectrum Square Dentistry",
 					"about": "Lorem ipsum",
-					"description": "<p>Lorem ipsum</p>",
-					"category": "health",
+					"description": "<p class='address'> 5036 Satellite Drive,<br> Mississauga ON L4W 0E3<br><span class='m-top'> 905-624-9964 </span></p>",
+                    "thumbnail": "images/unit-logos/download.png",
+					"image": "images/unit-logos/download.png",
+					"category": "retail",
+                    "link":"https://spectrumsquaredentistry.com/",
 					"x": "0.5919",
 					"y": "0.6242"
 				},
@@ -153,12 +145,149 @@
 					"id": "union-social",
 					"title": "Union Social",
 					"about": "Lorem ipsum",
-					"description": "<p>Lorem ipsum</p>",
-					"category": "retail, food",
-					"link": "https://1.envato.market/R5Nv",
+					"description": "<p class='address'> 5042 Satellite Drive,<br> Mississauga ON L4W 0E3<br><span class='m-top'></span></p>",
+                    "thumbnail": "images/unit-logos/medium_US_Block_Logo_Color.jpg",
+					"image": "images/unit-logos/medium_US_Block_Logo_Color.jpg",
+                    "category": "retail",
+					"link": "http://www.unionsocial.ca/",
 					"x": "0.6086",
 					"y": "0.7429"
-				}
+				},
+                {
+					"id": "pizza-land",
+					"title": "Pizza Land",
+					"about": "Lorem ipsum",
+					"description": "<p class='address'> 5019 Spectrum Way,<br> Mississauga ON L4W 5A1<br><span class='m-top'></span></p>",
+                    "thumbnail": "images/unit-logos/logo-mobile.png",
+					"image": "images/unit-logos/logo-mobile.png",
+					"category": "retail",
+					"link": "http://www.pizzalandhalal.com/",
+					"x": "0.3841",
+					"y": "0.6785"
+                },
+                {
+					"id": "deal-pending-1",
+					"title": "Deal Pending 1",
+					"about": "Lorem ipsum",
+					"description": "<p>Lorem ipsum</p>",
+					"category": "retail",
+					"link": "www.pizzalandhalal.com",
+					"x": "0.4272",
+					"y": "0.7262"
+                },
+                {
+					"id": "deal-pending-2",
+					"title": "Deal Pending 2",
+					"about": "Lorem ipsum",
+					"description": "<p>Lorem ipsum</p>",
+					"category": "retail",
+					"link": "www.pizzalandhalal.com",
+					"x": "0.4378",
+					"y": "0.7108"
+                },
+                {
+					"id": "available-1",
+					"title": "Available Unit",
+					"about": "Lorem ipsum",
+					"description": "<p>Lorem ipsum</p>",
+					"category": "available-units",
+					"link": "www.pizzalandhalal.com",
+					"x": "0.4468",
+					"y": "0.7388"
+                },
+                {
+					"id": "available-2",
+					"title": "Available Unit",
+					"about": "Lorem ipsum",
+					"description": "<p>Lorem ipsum</p>",
+					"category": "available-units",
+					"link": "www.pizzalandhalal.com",
+					"x": "0.4718",
+					"y": "0.7355"
+                },
+                {
+					"id": "available-3",
+					"title": "Available Unit",
+					"about": "Lorem ipsum",
+					"description": "<p>Lorem ipsum</p>",
+					"category": "available-units",
+					"link": "www.pizzalandhalal.com",
+					"x": "0.4947",
+					"y": "0.6669"
+                },
+                {
+					"id": "available-4",
+					"title": "Available Unit",
+					"about": "Lorem ipsum",
+					"description": "<p>Lorem ipsum</p>",
+					"category": "available-units",
+					"link": "www.pizzalandhalal.com",
+					"x": "0.6134",
+					"y": "0.6209"
+                },
+                {
+					"id": "available-5",
+					"title": "Available Unit",
+					"about": "Lorem ipsum",
+					"description": "<p>Lorem ipsum</p>",
+					"category": "available-units",
+					"link": "www.pizzalandhalal.com",
+					"x": "0.6024",
+					"y": "0.6596"
+                },
+                 {
+					"id": "available-6",
+					"title": "Available Unit",
+					"about": "Lorem ipsum",
+					"description": "<p>Lorem ipsum</p>",
+					"category": "available-units",
+					"link": "www.pizzalandhalal.com",
+					"x": "0.6414",
+					"y": "0.7549"
+                },
+                 {
+					"id": "spectrum-square",
+					"title": "Spectrum Square",
+					"about": "Lorem ipsum",
+					"description": "<p>Lorem ipsum</p>",
+					"category": "office",
+					"link": "www.pizzalandhalal.com",
+					"x": "0.5304",
+					"y": "0.7423"
+                },
+                 {
+					"id": "ss01",
+					"title": "Office Space",
+					"about": "Lorem ipsum",
+					"description": "<p>Lorem ipsum</p>",
+					"category": "office",
+					"link": "www.pizzalandhalal.com",
+					"x": "0.3016",
+					"y": "0.6092"
+                },
+                {
+					"id": "ss04",
+					"title": "Office Space",
+					"about": "Lorem ipsum",
+					"description": "<p>Lorem ipsum</p>",
+					"category": "office",
+					"link": "www.pizzalandhalal.com",
+					"x": "0.7260",
+					"y": "0.6862"
+                },
+                {
+					"id": "unknown-1",
+					"title": "Unknown",
+					"about": "Lorem ipsum",
+					"description": "<p>Lorem ipsum</p>",
+					"category": "retail",
+					"link": "www.pizzalandhalal.com",
+					"x": "0.3947",
+					"y": "0.7172"
+                }
+                
+                
+                
 			]
 		}
 		
