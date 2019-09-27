@@ -370,5 +370,7 @@ section.gray:hover {
   }
 
 
-  .mapplic-list{ display: flex; }
+  .mapplic-list,
+  .mapplic-list ol{ display: flex; }
+  .mapplic-list-category > a{ width: 100px; }
 }
