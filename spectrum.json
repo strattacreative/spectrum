@@ -16,13 +16,6 @@
       "about": "Cothing & Accessories",
       "color": "#FF9595"
     }
-    // ,
-    // {
-    //   "id": "available-units",
-    //   "title": "Available Units",
-    //   "about": "Units available for purchase or lease",
-    //   "color": "#FF9595"
-    // }
   ],
   "levels": [
     
@@ -152,8 +145,7 @@
           "link": "http://www.unionsocial.ca/",
           "x": "0.6086",
           "y": "0.7429"
-        }
-        // ,
+        },
         // {
         //   "id": "deal-pending-1",
         //   "title": "Deal Pending 1",
