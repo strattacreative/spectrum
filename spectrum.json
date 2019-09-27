@@ -22,8 +22,8 @@
     {
       "id": "test",
       "title": "Main",
-      "map": "maps/Directory-map-01-01.svg",
-      "minimap": "maps/Directory-map-01-01.svg",
+      "map": "maps/Directory-map-01-UPDATE.svg",
+      "minimap": "maps/Directory-map-01-UPDATE.svg",
       "show": "true",
       "locations": [
         {
