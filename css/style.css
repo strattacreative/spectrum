@@ -367,5 +367,8 @@ section.gray:hover {
 
 	#main-menu li:last-child {
 		display: inline-block;
-	}
+  }
+
+
+  .mapplic-list{ display: flex; }
 }
