@@ -37,8 +37,6 @@
           "x": "0.3531",
           "y": "0.7033",
           "zoom": "3"
-          
-          
         },
         {
           "id": "teriyaki-experience",
@@ -157,7 +155,7 @@
           "y": "0.7423"
         },
         {
-          "id": "ss01",
+          "id": "office-1",
           "title": "Office Space",
           "about": "Lorem ipsum",
           "description": "<p>Lorem ipsum</p>",
