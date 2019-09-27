@@ -373,4 +373,5 @@ section.gray:hover {
   .mapplic-list,
   .mapplic-list ol{ display: flex; }
   .mapplic-list-category > a{ width: 100px; }
+  .map-container{ margin-bottom: 0; }
 }
