@@ -158,9 +158,8 @@
           "id": "office-1",
           "title": "Office Space",
           "about": "Lorem ipsum",
-          "description": "<p>Lorem ipsum</p>",
+          "description": "<p>515 Spectrum Way</p>",
           "category": "office",
-          "link": "www.pizzalandhalal.com",
           "x": "0.3016",
           "y": "0.6092"
         },
@@ -168,9 +167,8 @@
           "id": "office-2",
           "title": "Office Space",
           "about": "Lorem ipsum",
-          "description": "<p>Lorem ipsum</p>",
+          "description": "<p>550 Adelaide Drive</p>",
           "category": "office",
-          "link": "www.pizzalandhalal.com",
           "x": "0.7260",
           "y": "0.6862"
         },
