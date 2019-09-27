@@ -53,7 +53,7 @@
         {
           "id": "mango",
           "title": "South East Mango",
-          "about": "Lorem ipsum",
+          "about": "",
           "description": "<p class='address'> 5019 Spectrum Way,<br> Mississauga ON L4W 0E4<br><span class='m-top'>905-282-1111</span></p>",
           "category": "retail",
           
@@ -66,7 +66,7 @@
         {
           "id": "subway",
           "title": "Subway",
-          "about": "Lorem ipsum",
+          "about": "",
           "description": "<p class='address'> 5019 Spectrum Way,<br> Mississauga ON L4W 05A1<br><span class='m-top'> 905-602-9722 </span></p>",
           "category": "retail",
           "thumbnail": "images/unit-logos/Subway-new-logo_itsnicethat_LIST.jpg",
@@ -78,7 +78,7 @@
         {
           "id": "chairacters",
           "title": "Chairacters Hair & Makeup",
-          "about": "Lorem ipsum",
+          "about": "",
           "description": "<p class='address'> 5027 Spectrum Way,<br> Mississauga ON L4W 0E3<br><span class='m-top'> 905-282-1551 </span></p>",
           "category": "retail",
           "link": "https://chairacters.ca/",
@@ -88,7 +88,7 @@
         {
           "id": "light-touch",
           "title": "Light Touch Med Spa",
-          "about": "Lorem ipsum",
+          "about": "",
           "description": "<p>Lorem ipsum dolor sit amet</p>",
           "category": "retail",
           "link": "https://1.envato.market/R5Nv",
@@ -98,7 +98,7 @@
         {
           "id": "pumpernickels",
           "title": "Pumpernickel's",
-          "about": "Lorem ipsum",
+          "about": "",
           "description": "<p class='address'> 5027 Spectrum Way,<br> Mississauga ON L4W 5N6<br><span class='m-top'> 416-863-9880 </span></p>",
           "thumbnail": "images/unit-logos/uwMiXpFJ.jpg",
           "image": "images/unit-logos/uwMiXpFJ.jpg",
@@ -110,7 +110,7 @@
         {
           "id": "anytime-fitness",
           "title": "Anytime Fitness",
-          "about": "Lorem ipsum",
+          "about": "",
           "description": "<p class='address'> 5030 Satellite Drive,<br> Etobicoke ON L4W 0E3<br><span class='m-top'> 905-625-5055 </span></p>",
           "thumbnail": "images/unit-logos/logo-anytime-fitness-th.jpg",
           "image": "images/unit-logos/logo-anytime-fitness-th.jpg",
@@ -122,7 +122,7 @@
         {
           "id": "dentist",
           "title": "Spectrum Square Dentistry",
-          "about": "Lorem ipsum",
+          "about": "",
           "description": "<p class='address'> 5036 Satellite Drive,<br> Mississauga ON L4W 0E3<br><span class='m-top'> 905-624-9964 </span></p>",
           "thumbnail": "images/unit-logos/download.png",
           "image": "images/unit-logos/download.png",
@@ -135,7 +135,7 @@
         {
           "id": "union-social",
           "title": "Union Social",
-          "about": "Lorem ipsum",
+          "about": "",
           "description": "<p class='address'> 5042 Satellite Drive,<br> Mississauga ON L4W 0E3<br><span class='m-top'></span></p>",
           "thumbnail": "images/unit-logos/medium_US_Block_Logo_Color.jpg",
           "image": "images/unit-logos/medium_US_Block_Logo_Color.jpg",
@@ -147,7 +147,7 @@
         {
           "id": "spectrum-square",
           "title": "Spectrum Square",
-          "about": "Lorem ipsum",
+          "about": "",
           "description": "<p>Lorem ipsum</p>",
           "category": "office",
           "link": "www.pizzalandhalal.com",
@@ -157,7 +157,7 @@
         {
           "id": "office-1",
           "title": "Office Space",
-          "about": "Lorem ipsum",
+          "about": "",
           "description": "<p>515 Spectrum Way</p>",
           "category": "office",
           "x": "0.3016",
@@ -166,7 +166,7 @@
         {
           "id": "office-2",
           "title": "Office Space",
-          "about": "Lorem ipsum",
+          "about": "",
           "description": "<p>550 Adelaide Drive</p>",
           "category": "office",
           "x": "0.7260",
@@ -175,7 +175,7 @@
         {
           "id": "pizza-land",
           "title": "Pizza Land",
-          "about": "Lorem ipsum",
+          "about": "",
           "description": "<p class='address'> 5019 Spectrum Way,<br> Mississauga ON L4W 5A1<br><span class='m-top'></span></p>",
           "thumbnail": "images/unit-logos/logo-mobile.png",
           "image": "images/unit-logos/logo-mobile.png",
