@@ -22,8 +22,8 @@
     {
       "id": "test",
       "title": "Main",
-      "map": "maps/Directory-map-01-UPDATE.svg",
-      "minimap": "maps/Directory-map-01-UPDATE.svg",
+      "map": "https://spectrum-directory-map.netlify.com/maps/Directory-Map-01-UPDATE.svg",
+      "minimap": "https://spectrum-directory-map.netlify.com/maps/Directory-Map-01-UPDATE.svg",
       "show": "true",
       "locations": [
         {
