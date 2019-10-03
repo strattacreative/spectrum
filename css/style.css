@@ -368,7 +368,7 @@ section.gray:hover {
 	#main-menu li:last-child {
 		display: inline-block;
   }
-  .mapplic-portrait.mapplic-element{ height: 100vh!important; }
+  div.mapplic-portrait.mapplic-element{ height: 100vh!important; }
 
   .mapplic-list-container{ background: #fff; }
   .mapplic-list,
