@@ -369,6 +369,9 @@ section.gray:hover {
 		display: inline-block;
   }
   div.mapplic-portrait.mapplic-element{ height: 100vh!important; }
+  
+  .mapplic-list-category .mapplic-thumbnail{ width: 50px!important; height: 50px!important; }
+  .mapplic-list-category .mapplic-thumbnail-placeholder{ line-height: 34px!important; }
 
   .mapplic-list-container{ background: #fff; }
   .mapplic-list,
