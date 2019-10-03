@@ -369,7 +369,7 @@ section.gray:hover {
 		display: inline-block;
   }
 
-
+  .mapplic-list-container{ background: #fff; }
   .mapplic-list,
   .mapplic-list ol{ display: flex; }
   .mapplic-list-category > a{ width: 100px; margin: 0!important; }
