@@ -373,6 +373,13 @@ section.gray:hover {
   .mapplic-list-category .mapplic-thumbnail{ width: 50px!important; height: 50px!important; }
   .mapplic-list-category .mapplic-thumbnail-placeholder{ line-height: 34px!important; }
   li.mapplic-list-category h4.mapplic-margin{ margin-top: 0; }
+  li.mapplic-list-location h4{    
+    display: inline-block;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 22px;
+    margin: 0;
+  }
 
   .mapplic-list-container{ background: #fff; }
   .mapplic-list,
