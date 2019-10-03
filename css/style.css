@@ -372,6 +372,7 @@ section.gray:hover {
   
   .mapplic-list-category .mapplic-thumbnail{ width: 50px!important; height: 50px!important; }
   .mapplic-list-category .mapplic-thumbnail-placeholder{ line-height: 34px!important; }
+  li.mapplic-list-category h4.mapplic-margin{ margin-top: 0; }
 
   .mapplic-list-container{ background: #fff; }
   .mapplic-list,
