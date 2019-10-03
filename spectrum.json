@@ -6,14 +6,14 @@
   "categories": [
     {
       "id": "retail",
-      "title": "Retail  (The Hive)",
-      "about": "Retail",
+      "title": "Retail",
+      "about": "(The Hive)",
       "color": "#FF9595"
     },
     {
       "id": "office",
       "title": "Office",
-      "about": "Cothing & Accessories",
+      "about": "",
       "color": "#FF9595"
     }
   ],
