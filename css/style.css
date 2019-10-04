@@ -359,6 +359,12 @@ section.gray:hover {
 	background-color: #ccc;
 }
 
+polygon{
+  stroke: #FFFFFF;
+  stroke-width: 2;
+  stroke-miterlimit: 10;
+}
+
 /* Responsivity */
 @media all and (max-width: 667px) {
 	#main-menu li {
