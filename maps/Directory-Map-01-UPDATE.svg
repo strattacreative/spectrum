@@ -73,7 +73,7 @@
 		<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 1180.2402 436.47)" class="st4 st5 st6">Satellite Drive</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 910.29 401.68)" class="st4 st5 st6">parking/future development</text>
+		<text transform="matrix(1 0 0 1 800.29 401.68)" class="st4 st5 st6">parking/future development</text>
 	</g>
 	<g>
 		<text transform="matrix(5.989229e-02 0.9982 -0.9982 5.989229e-02 185.1396 446.5699)" class="st4 st5 st6">Spectrum </text>
@@ -88,7 +88,7 @@
 	<polygon class="st3" points="1183.2,229.2 1157.9,352 718.5,234.9 718.5,84.9 	"/>
 	<polygon class="st3" points="691.6,84.9 691.6,234.9 213.5,361.8 194.1,282 	"/>
 	<g>
-		<text transform="matrix(1 0 0 1 549.961 391.67)" class="st4 st5 st6">parking/future development</text>
+		<text transform="matrix(1 0 0 1 500.961 391.67)" class="st4 st5 st6">parking/future <br>development</text>
 	</g>
 	<g>
 		<text transform="matrix(0.999 4.545829e-02 -4.545829e-02 0.999 667.1373 716.7585)" class="st4 st5 st6">Bus Rapid Transit </text>
@@ -96,7 +96,7 @@
 	<g>
 		<text transform="matrix(1 0 0 1 256.1258 710.68)" class="st4 st5 st6">spectrum station</text>
 	</g>
-	<text transform="matrix(1 0 0 1 344.4658 247.01)" class="st4 st5 st6">parking/future development</text>
+	<text transform="matrix(1 0 0 1 344.4658 242.01)" class="st4 st5 st6">parking/future development</text>
 	<text transform="matrix(0.9316 -0.3634 0.3634 0.9316 362.1851 189.1028)" class="st4 st5 st6">skymark avenue</text>
 	<text transform="matrix(0.9548 0.2973 -0.2973 0.9548 874.733 107.8561)" class="st4 st5 st6">skymark avenue</text>
 	<g>
