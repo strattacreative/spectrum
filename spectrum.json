@@ -41,7 +41,7 @@
           "zoom": "3"
         },
         {
-          "id": "starbucks",
+          "id": "a1",
           "title": "Starbucks",
           "description": "<p class='address'> 5019 Spectrum Way,<br> Mississauga ON L4W 5A1<br><span class='m-top'> 905-602-9722 </span></p>",
           "link": "https://www.starbucks.ca/",
@@ -53,7 +53,7 @@
           "zoom": "3"
         },
         {
-          "id": "teriyaki-experience",
+          "id": "a2",
           "title": "Teriyaki Experience",
           "description": "<p class='address'> 5019 Spectrum Way,<br> Mississauga ON L4W 5A1<br><span class='m-top'> 905-282-0550 </span></p>",
           "category": "retail",
@@ -65,7 +65,7 @@
           "zoom": "2"
         },
         {
-          "id": "mango",
+          "id": "a3",
           "title": "South East Mango",
           "about": "",
           "description": "<p class='address'> 5019 Spectrum Way,<br> Mississauga ON L4W 0E4<br><span class='m-top'>905-282-1111</span></p>",
@@ -77,7 +77,7 @@
           "zoom": "3"
         },
         {
-          "id": "subway",
+          "id": "a5",
           "title": "Subway",
           "about": "",
           "description": "<p class='address'> 5019 Spectrum Way,<br> Mississauga ON L4W 05A1<br><span class='m-top'> 905-602-9722 </span></p>",
@@ -89,7 +89,7 @@
           "y": "0.6813"
         },
         {
-          "id": "chairacters",
+          "id": "c2",
           "title": "Chairacters Hair & Makeup",
           "about": "",
           "description": "<p class='address'> 5027 Spectrum Way,<br> Mississauga ON L4W 0E3<br><span class='m-top'> 905-282-1551 </span></p>",
@@ -101,7 +101,7 @@
           "y": "0.6640"
         },
         {
-          "id": "light-touch",
+          "id": "c1",
           "title": "Light Touch Med Spa",
           "about": "",
           "description": "<p class='address'> 5027 Spectrum Way,<br> Mississauga ON L4W 5N6<br><span class='m-top'> </span></p>",
@@ -113,7 +113,7 @@
           "y": "0.6277"
         },
         {
-          "id": "pumpernickels",
+          "id": "c3",
           "title": "Pumpernickel's",
           "about": "",
           "description": "<p class='address'> 5027 Spectrum Way,<br> Mississauga ON L4W 5N6<br><span class='m-top'> 416-863-9880 </span></p>",
@@ -125,7 +125,7 @@
           "y": "0.6282"
         },
         {
-          "id": "anytime-fitness",
+          "id": "d1",
           "title": "Anytime Fitness",
           "about": "",
           "description": "<p class='address'> 5030 Satellite Drive,<br> Etobicoke ON L4W 0E3<br><span class='m-top'> 905-625-5055 </span></p>",
@@ -137,7 +137,7 @@
           "y": "0.6676"
         },
         {
-          "id": "dentist",
+          "id": "e1",
           "title": "Spectrum Square Dentistry",
           "about": "",
           "description": "<p class='address'> 5036 Satellite Drive,<br> Mississauga ON L4W 0E3<br><span class='m-top'> 905-624-9964 </span></p>",
@@ -162,7 +162,7 @@
           "y": "0.7429"
         },
         {
-          "id": "spectrum-square",
+          "id": "f1",
           "title": "Spectrum Square",
           "about": "",
           "description": "<p></p>",
@@ -191,7 +191,7 @@
           "hide": "true"
         },
         {
-          "id": "pizza-land",
+          "id": "a4",
           "title": "Pizza Land",
           "about": "",
           "description": "<p class='address'> 5019 Spectrum Way,<br> Mississauga ON L4W 5A1<br><span class='m-top'></span></p>",
