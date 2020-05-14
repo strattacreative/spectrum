@@ -9,6 +9,13 @@
       "title": "Retail",
       "about": "(The Hive)",
       "color": "#FF9595"
+    },
+    {
+      "id": "office",
+      "title": "Office",
+      "about": "",
+      "color": "#FF9595",
+      "hide": true
     }
   ],
   "levels": [
