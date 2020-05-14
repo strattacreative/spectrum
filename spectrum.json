@@ -15,7 +15,7 @@
       "title": "Office",
       "about": "",
       "color": "#FF9595",
-      "hide": true
+      "hide": "true"
     }
   ],
   "levels": [
