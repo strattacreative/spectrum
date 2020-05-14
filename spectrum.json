@@ -153,7 +153,6 @@
           "about": "",
           "description": "<p></p>",
           "category": "office",
-          "link": "www.pizzalandhalal.com",
           "x": "0.5304",
           "y": "0.7423"
         },
@@ -161,7 +160,7 @@
           "id": "office-1",
           "title": "Office Space",
           "about": "",
-          "description": "<p>515 Spectrum Way</p>",
+          "description": "<p>5015 Spectrum Way</p>",
           "category": "office",
           "x": "0.3016",
           "y": "0.6092"
@@ -170,7 +169,7 @@
           "id": "office-2",
           "title": "Office Space",
           "about": "",
-          "description": "<p>550 Adelaide Drive</p>",
+          "description": "<p>5050 Satelite Drive</p>",
           "category": "office",
           "x": "0.7260",
           "y": "0.6862"
