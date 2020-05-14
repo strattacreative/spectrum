@@ -29,6 +29,18 @@
       "show": "true",
       "locations": [
         {
+          "id": "b1",
+          "title": "Z-teca",
+          "description": "<p class='address'> 5023 Spectrum Way,<br> Mississauga ON L4W 5A1<br><span class='m-top'></span></p>",
+          "link": "https://www.z-teca.com/",
+          "category": "retail",
+          "thumbnail": "images/unit-logos/z-teca.png",
+          "image": "images/unit-logos/z-teca.png",
+          "x": "0.3531",
+          "y": "0.7033",
+          "zoom": "3"
+        },
+        {
           "id": "starbucks",
           "title": "Starbucks",
           "description": "<p class='address'> 5019 Spectrum Way,<br> Mississauga ON L4W 5A1<br><span class='m-top'> 905-602-9722 </span></p>",
