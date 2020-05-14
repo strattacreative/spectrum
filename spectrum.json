@@ -29,6 +29,18 @@
       "show": "true",
       "locations": [
         {
+          "id": "b2",
+          "title": "Charminar Indian Cuisine",
+          "description": "<p class='address'>Opening soon!<br> 5023 Spectrum Way,<br> Mississauga ON L4W 5A1<br><span class='m-top'></span></p>",
+          "link": "https://charminarindiancuisine.com/",
+          "category": "retail",
+          "thumbnail": "images/unit-logos/charminar-logo.png",
+          "image": "images/unit-logos/charminar-logo.png",
+          "x": "0.4461",
+          "y": "0.7133",
+          "zoom": "3"
+        },
+        {
           "id": "b1",
           "title": "Z-teca",
           "description": "<p class='address'> 5023 Spectrum Way,<br> Mississauga ON L4W 5A1<br><span class='m-top'></span></p>",
