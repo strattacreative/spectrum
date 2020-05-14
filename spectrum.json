@@ -29,6 +29,18 @@
       "show": "true",
       "locations": [
         {
+          "id": "e3",
+          "title": "Lyft",
+          "description": "<p class='address'>5036 Satellite Drive,<br> Mississauga ON L4W 5A1<br><span class='m-top'></span></p>",
+          "link": "https://www.lyft.com/",
+          "category": "retail",
+          "thumbnail": "images/unit-logos/Lyft-logo.png",
+          "image": "images/unit-logos/Lyft-logo.png",
+          "x": "0.5461",
+          "y": "0.6833",
+          "zoom": "3"
+        },
+        {
           "id": "b2",
           "title": "Charminar Indian Cuisine",
           "description": "<p class='address'>Opening soon!<br> 5023 Spectrum Way,<br> Mississauga ON L4W 5A1<br><span class='m-top'></span></p>",
