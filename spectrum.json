@@ -164,7 +164,8 @@
           "description": "<p>5015 Spectrum Way</p>",
           "category": "office",
           "x": "0.3016",
-          "y": "0.6092"
+          "y": "0.6092",
+          "hide": "true"
         },
         {
           "id": "office-2",
