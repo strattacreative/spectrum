@@ -29,7 +29,7 @@
       "show": "true",
       "locations": [
         {
-          "id": "e3",
+          "id": "e3-4",
           "title": "Lyft",
           "description": "<p class='address'>5036 Satellite Drive,<br> Mississauga ON L4W 5A1<br><span class='m-top'></span></p>",
           "link": "https://www.lyft.com/",
@@ -174,7 +174,7 @@
         },
         
         {
-          "id": "union-social",
+          "id": "f1",
           "title": "Union Social",
           "about": "",
           "description": "<p class='address'> 5042 Satellite Drive,<br> Mississauga ON L4W 0E3<br><span class='m-top'></span></p>",
@@ -186,7 +186,7 @@
           "y": "0.7429"
         },
         {
-          "id": "f1",
+          "id": "spsq",
           "title": "Spectrum Square",
           "about": "",
           "description": "<p></p>",
