@@ -29,15 +29,27 @@
       "show": "true",
       "locations": [
         {
+          "id": "d3",
+          "title": "Pedi N nails",
+          "description": "<p class='address'>Opening Soon!<br> 5030 Satellite Drive,<br> Mississauga ON L4W 0E3<br><span class='m-top'></span></p>",
+          "link": "",
+          "category": "retail",
+          "thumbnail": "images/unit-logos/PedNnailslogo.png",
+          "image": "images/unit-logos/PedNnailslogo.png",
+          "x": "0.4946",
+          "y": "0.6640",
+          "zoom": "3"
+        },
+        {
           "id": "c4",
           "title": "The Dapper Donut",
           "description": "<p class='address'>Opening Soon!<br> 5042 Satellite Drive,<br> Mississauga ON L4W 0E3<br><span class='m-top'></span></p>",
           "link": "https://thedapperdoughnut.com/",
           "category": "retail",
-          "thumbnail": "images/unit-logos/Lyft-logo.png",
-          "image": "images/unit-logos/Lyft-logo.png",
+          "thumbnail": "images/unit-logos/dapper-doughnut-logo.png",
+          "image": "images/unit-logos/dapper-doughnut-logo.png",
           "x": "0.4946",
-          "y": "0.6482",
+          "y": "0.6640",
           "zoom": "3"
         },
         {
