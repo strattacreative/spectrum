@@ -30,7 +30,7 @@
       "locations": [
         {
           "id": "d3",
-          "title": "Pedi N nails",
+          "title": "Pedi N Nails",
           "description": "<p class='address'>Opening Soon!<br> 5030 Satellite Drive,<br> Mississauga ON L4W 0E3<br><span class='m-top'></span></p>",
           "link": "",
           "category": "retail",
@@ -211,7 +211,7 @@
         },
         {
           "id": "spsq",
-          "title": "Spectrum Square",
+          "title": "The Hive at Spectrum Square",
           "about": "",
           "description": "<p></p>",
           "category": "office",
@@ -220,9 +220,8 @@
         },
         {
           "id": "office-1",
-          "title": "Office Space",
+          "title": "5015 Spectrum Way",
           "about": "",
-          "description": "<p>5015 Spectrum Way</p>",
           "category": "office",
           "x": "0.3016",
           "y": "0.6092",
@@ -230,9 +229,8 @@
         },
         {
           "id": "office-2",
-          "title": "Office Space",
+          "title": "5050 Satelite Drive",
           "about": "",
-          "description": "<p>5050 Satelite Drive</p>",
           "category": "office",
           "x": "0.7260",
           "y": "0.6862",
