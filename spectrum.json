@@ -214,6 +214,8 @@
           "title": "The Hive at Spectrum Square",
           "about": "",
           "description": "<p></p>",
+          "thumbnail": "images/unit-logos/hive.png",
+          "image": "images/unit-logos/hive.png",
           "category": "office",
           "x": "0.5304",
           "y": "0.7423"
@@ -229,7 +231,7 @@
         },
         {
           "id": "office-2",
-          "title": "5050 Satelite Drive",
+          "title": "5050 Satellite Drive",
           "about": "",
           "category": "office",
           "x": "0.7260",
