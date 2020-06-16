@@ -29,6 +29,18 @@
       "show": "true",
       "locations": [
         {
+          "id": "d2",
+          "title": "Unit D2",
+          "description": "<p class='address'>7700sf Available<br><span class='m-top'></span></p>",
+          "link": "",
+          "category": "retail",
+          "thumbnail": "images/unit-logos/hive.png",
+          "image": "images/unit-logos/hive.png",
+          "x": "0.5316",
+          "y": "0.6282",
+          "zoom": "3"
+        },
+        {
           "id": "d3",
           "title": "Pedi N Nails",
           "description": "<p class='address'>Opening Soon!<br> 5030 Satellite Drive,<br> Mississauga ON L4W 0E3<br><span class='m-top'></span></p>",
