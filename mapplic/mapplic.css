@@ -927,7 +927,7 @@ a.mapplic-zoomout-button {
 	margin: -16px;
 /*	max-width: none;*/
     border-radius: 15px 15px 0px 0px;
-   padding: 20px;
+   padding: 0 20px;
    box-sizing: border-box;
 }
 
