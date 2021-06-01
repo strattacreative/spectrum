@@ -54,18 +54,6 @@
           "zoom": "3"
         },
         {
-          "id": "c4",
-          "title": "The Dapper Donut",
-          "description": "<p class='address'>Opening Soon!<br> 5042 Satellite Drive,<br> Mississauga ON L4W 0E3<br><span class='m-top'></span></p>",
-          "link": "https://thedapperdoughnut.com/",
-          "category": "retail",
-          "thumbnail": "images/unit-logos/dapper-doughnut-logo.png",
-          "image": "images/unit-logos/dapper-doughnut-logo.png",
-          "x": "0.4946",
-          "y": "0.6640",
-          "zoom": "3"
-        },
-        {
           "id": "e3-4",
           "title": "Lyft",
           "description": "<p class='address'>5036 Satellite Drive,<br> Mississauga ON L4W 5A1<br><span class='m-top'></span></p>",
@@ -75,6 +63,18 @@
           "image": "images/unit-logos/Lyft-logo.png",
           "x": "0.6021",
           "y": "0.6833",
+          "zoom": "3"
+        },
+        {
+          "id": "b4",
+          "title": "CheeZaatar",
+          "description": "<p class='address'>Opening soon!<br><br><span class='m-top'></span></p>",
+          "link": "",
+          "category": "retail",
+          "thumbnail": "images/unit-logos/CHEEZAATAR.png",
+          "image": "images/unit-logos/CHEEZAATAR.png",
+          "x": "0.4661",
+          "y": "0.7333",
           "zoom": "3"
         },
         {
@@ -221,6 +221,18 @@
           "link": "http://www.unionsocial.ca/",
           "x": "0.6086",
           "y": "0.7429"
+        },
+        {
+          "id": "f3",
+          "title": "Naan & Kabob",
+          "about": "",
+          "description": "<p class='address'> Opening Soon!<br><span class='m-top'></span></p>",
+          "thumbnail": "images/unit-logos/Naan-and-kabob.png",
+          "image": "images/unit-logos/Naan-and-kabob.png",
+          "category": "retail",
+          "link": "",
+          "x": "0.6386",
+          "y": "0.7529"
         },
         {
           "id": "spsq",
