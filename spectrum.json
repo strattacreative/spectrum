@@ -102,18 +102,6 @@
           "zoom": "3"
         },
         {
-          "id": "a1",
-          "title": "Starbucks",
-          "description": "<p class='address'> 5019 Spectrum Way,<br> Mississauga ON L4W 5A1<br><span class='m-top'> 905-602-9722 </span></p>",
-          "link": "https://www.starbucks.ca/",
-          "category": "retail",
-          "thumbnail": "images/unit-logos/Starbucks.png",
-          "image": "images/unit-logos/Starbucks.png",
-          "x": "0.3531",
-          "y": "0.7033",
-          "zoom": "3"
-        },
-        {
           "id": "a2",
           "title": "Teriyaki Experience",
           "description": "<p class='address'> 5019 Spectrum Way,<br> Mississauga ON L4W 5A1<br><span class='m-top'> 905-282-0550 </span></p>",
